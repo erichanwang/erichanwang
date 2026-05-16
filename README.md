@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Hi! I'm Eric, passionate about computer science, math, and violin.<br><br>Here's my website if you want to know more -> https://erichanwang.github.io</p>
+<p align="left">Hi! I'm Eric, passionate about computer science, math, and violin.<br><br>Here's my website if you want to know more -> https://erichanwang.vercel.app</p>
 
 ###
 
